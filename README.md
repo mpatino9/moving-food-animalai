@@ -4,6 +4,6 @@ En este repositorio se encuentran los códigos realizados para el proyecto final
 
 
 Realizado por:
-Manuel Sebastián Ríos Beltrán
-Camilo Andrés Guillén Aguirre
-Michael Javier Patiño Pantoja
+Manuel Sebastián Ríos Beltrán,
+Camilo Andrés Guillén Aguirre,
+y Michael Javier Patiño Pantoja
